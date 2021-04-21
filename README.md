@@ -1,2 +1,2 @@
-# pip-quickstart-nodex
+# quickstart-nodex
 Get started on Node.js / ES2017
